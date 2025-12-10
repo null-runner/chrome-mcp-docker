@@ -8,10 +8,17 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "@modelcontextprotocol/sdk": "^1.0.1",
-    "puppeteer-core": "^23.10.1"
+    "@modelcontextprotocol/sdk": "^1.24.3",
+    "puppeteer-core": "^24.32.1"
   },
-  "keywords": ["mcp", "chrome", "devtools", "claude", "frontend", "debugging"],
+  "keywords": [
+    "mcp",
+    "chrome",
+    "devtools",
+    "claude",
+    "frontend",
+    "debugging"
+  ],
   "author": "",
   "license": "MIT"
 }
