@@ -94,7 +94,10 @@ cd chrome-mcp-docker
 
 ## Requirements
 
-- [Docker Desktop](https://www.docker.com/products/docker-desktop/)
+- **Docker** (one of):
+  - [Docker Desktop](https://www.docker.com/products/docker-desktop/) (Windows/Mac - easiest)
+  - Docker Engine (Linux - see [Setup Guide](SETUP_GUIDE.md#advanced-running-without-docker-desktop))
+  - Podman (compatible alternative)
 - Any MCP-compatible client (Claude Code, Cursor, Windsurf, Cline, etc.)
 
 ---
